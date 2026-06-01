@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Junior%20Bukasa&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Fondateur%20de%20TEN-CODA%20•%20Bâtir%20l'avenir%20numérique%20de%20l'Afrique&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=🚀+Fondateur+de+TEN-CODA;🛒+En+construction+:+VENDO;🛡️+En+développement+:+VigiRDC;📱+Flutter+%7C+Laravel+%7C+Firebase;🌍+Des+solutions+tech+pour+la+RDC"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=+CO-Fondateur+de+TEN-CODA;🛒+En+construction+:+VENDO;🛡️+En+développement+:+VigiRDC;📱+Flutter+%7C+Laravel+%7C+Firebase;🌍+Des+solutions+tech+pour+la+RDC"/>
 
 </div>
 
@@ -12,13 +12,13 @@
 
 | | |
 |---|---|
-| 📍 **Emplacement** | Kinshasa, République démocratique du Congo 🇨🇩 |
-| 💼 **Rôle** | Développeur Full Stack & Mobile |
-| 🏢 **CO-Fondateur** | TEN-CODA |
-| 🎓 **Éducation** | Ingénierie logicielle @ UPC |
-| 🎯 **Mission** | Créer des solutions numériques percutantes pour l'Afrique grâce à des technologies web et mobiles évolutives |
+| **Emplacement** | Kinshasa, République démocratique du Congo 🇨🇩 |
+| **Rôle** | Développeur Full Stack & Mobile |
+| **CO-Fondateur** | TEN-CODA |
+| **Éducation** | Ingénierie logicielle @ UPC |
+| **Mission** | Créer des solutions numériques percutantes pour l'Afrique grâce à des technologies web et mobiles évolutives |
 
-### ⚡ Expertise
+### Expertise
 
 - Développement Flutter
 - Architecture Laravel & API
@@ -28,7 +28,7 @@
 
 ---
 
-## 🌍 Écosystème numérique
+## Écosystème numérique
 
 <table>
 <tr>
@@ -72,7 +72,7 @@ Plateforme intelligente de prise de rendez-vous et gestion médicale.
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
 
@@ -96,7 +96,7 @@ Plateforme intelligente de prise de rendez-vous et gestion médicale.
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 <div align="center">
 
@@ -112,7 +112,7 @@ Plateforme intelligente de prise de rendez-vous et gestion médicale.
 
 <div align="center">
 
-## ⚡ Code • Construis • Impacte
+## Code • Construis • Impacte
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:2563eb,100:06b6d4"/>
 
