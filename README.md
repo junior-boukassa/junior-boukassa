@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Junior%20Bukasa&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=Fondateur%20de%20TEN-CODA%20•%20Bâtir%20l'avenir%20numérique%20de%20l'Afrique&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:06b6d4&text=Junior%20Bukasa&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40&desc=CO-Fondateur%20de%20TEN-CODA%20•%20Bâtir%20l'avenir%20numérique%20de%20l'Afrique&descAlignY=62"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=+CO-Fondateur+de+TEN-CODA;🛒+En+construction+:+VENDO;🛡️+En+développement+:+VigiRDC;📱+Flutter+%7C+Laravel+%7C+Firebase;🌍+Des+solutions+tech+pour+la+RDC"/>
 
