@@ -1,161 +1,95 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:0F172A,70:2563EB,100:06B6D4&text=Junior%20Bukasa&fontColor=ffffff&fontSize=65&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20%26%20Mobile%20Developer%20•%20Founder%20of%20TEN-CODA%20•%20Building%20VENDO&descSize=18&descAlignY=58"/>
+# 👋 Salut, moi c'est Junior Bukasa
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=950&lines=🇨🇩+Tech+Builder+from+Kinshasa;🚀+Founder+of+TEN-CODA;🛒+Building+VENDO+Marketplace;🛡️+Building+VigiRDC;📱+Flutter+%7C+Laravel+%7C+Firebase+%7C+APIs"/>
+### Full Stack & Mobile Developer from Kinshasa 🇨🇩
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=junior-boukassa&style=for-the-badge&color=0891b2"/>
-<img src="https://img.shields.io/github/followers/junior-boukassa?style=for-the-badge&color=2563eb"/>
-<img src="https://img.shields.io/github/stars/junior-boukassa?style=for-the-badge&color=06b6d4"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Founder+of+TEN-CODA;Building+VENDO;Flutter+%7C+Laravel+%7C+Firebase;Software+Engineering+Student+@+UPC" />
 
 </div>
 
 ---
 
-## 👨‍💻 Who I Am
+## 🚀 À propos de moi
 
-```ts
-const juniorBukasa = {
-  country: "DR Congo 🇨🇩",
-  city: "Kinshasa",
+```javascript
+const junior = {
+  location: "Kinshasa, DR Congo 🇨🇩",
   role: "Full Stack & Mobile Developer",
+  education: "Software Engineering @ UPC",
   company: "TEN-CODA",
-  focus: "Mobile apps, web platforms, APIs and digital products",
-  currentMission: "Building useful technology for Africa",
-
-  mainProjects: {
-    vendo: "Multi-vendor marketplace for buyers and sellers",
-    vigiRDC: "Secure citizen reporting platform",
-    santePlusDRC: "Digital healthcare appointment system",
-    mbokaMedia: "Digital media and podcast ecosystem"
-  },
-
-  mindset: [
-    "Build fast",
-    "Design clean",
-    "Secure everything",
-    "Think impact"
-  ]
+  currentProjects: [
+    "VENDO",
+    "VigiRDC",
+    "SantéPlus DRC",
+    "Mboka Média"
+  ],
+  stack: ["Flutter", "Laravel", "PHP", "Firebase", "MySQL", "PostgreSQL"],
+  goal: "Building impactful digital solutions for Africa"
 };
 ```
 
 ---
 
-## 🚀 Featured Products
+## 🛠️ Stack
 
-<table>
-<tr>
-<td width="50%">
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🛒 VENDO  
-Modern marketplace connecting sellers, shops and buyers.
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Stack:** Flutter · Laravel · API · Payments
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-</td>
-<td width="50%">
-
-### 🛡️ VigiRDC  
-Citizen reporting platform with secure data flow.
-
-**Stack:** Flutter · Firebase · REST API · Dashboard
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🏥 SantéPlus DRC  
-Healthcare appointment and clinic management platform.
-
-**Stack:** React · Laravel · PostgreSQL
-
-</td>
-<td width="50%">
-
-### 🎙️ Mboka Média  
-Digital media, podcast and content platform.
-
-**Stack:** Web · API · Branding · Media
-
-</td>
-</tr>
-</table>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 ---
 
-## 🧠 Tech Stack
+## 📊 GitHub Stats
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=junior-boukassa&show_icons=true&theme=tokyonight)
 
-### Mobile & Frontend
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,html,css,js,ts,tailwind"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-boukassa&layout=compact&theme=tokyonight)
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,firebase,mysql,postgresql,redis"/>
-
-### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,xcode,figma,postman"/>
-
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=junior-boukassa&theme=tokyonight)
 
 ---
 
-## 📊 GitHub Performance
+## 🚀 Projets principaux
 
-<div align="center">
+### 🛒 VENDO
+Marketplace mobile moderne pour vendeurs et acheteurs.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=junior-boukassa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior-boukassa&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🛡️ VigiRDC
+Plateforme citoyenne sécurisée de signalement en temps réel.
 
-<br/>
+### 🏥 SantéPlus DRC
+Gestion digitale des rendez-vous médicaux.
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=junior-boukassa&theme=tokyonight&hide_border=true"/>
+### 💻 TEN-CODA
+Agence de développement web & mobile.
 
-<br/>
-
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junior-boukassa&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=junior-boukassa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
+### 🎙️ Mboka Média
+Plateforme média & podcast digital.
 
 ---
 
-## 🌍 Vision
+## 🌍 Connect with me
 
-> I build digital products that solve real problems in Africa, starting from DR Congo.
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=white)](https://www.juniorboukassa.com)
-[![TEN-CODA](https://img.shields.io/badge/TEN--CODA-2563EB?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.juniorboukassa.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/junior_boukassa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juniorbukasa622@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/junior_boukassa)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:juniorbukasa622@gmail.com)
 
 ---
 
 <div align="center">
 
-## ⚡ Code. Build. Scale. Impact.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:2563EB,100:06B6D4"/>
+### ⚡ Building Africa's next digital solutions
 
 </div>
