@@ -14,7 +14,7 @@
 |---|---|
 | 📍 **Emplacement** | Kinshasa, République démocratique du Congo 🇨🇩 |
 | 💼 **Rôle** | Développeur Full Stack & Mobile |
-| 🏢 **Fondateur** | TEN-CODA |
+| 🏢 **CO-Fondateur** | TEN-CODA |
 | 🎓 **Éducation** | Ingénierie logicielle @ UPC |
 | 🎯 **Mission** | Créer des solutions numériques percutantes pour l'Afrique grâce à des technologies web et mobiles évolutives |
 
